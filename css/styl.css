@@ -1,0 +1,84 @@
+body {
+  background-color: #FFF2CC;
+}
+
+.sm-logos {
+  width: 100px;
+  height: 100px;
+
+}
+
+
+#heading {
+  display: flex;
+  justify-content: space space-evenly;
+  flex-wrap: wrap;
+  border: 1px solid #F4B183;
+
+
+}
+
+#Mickey {
+  width: 155px;
+  height: 120px;
+  border: 3px black solid;
+  border-radius: 30px;
+
+
+}
+
+
+#vital-info {
+  border: 1px solid #F4B183;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#Mickey {
+  border: #000 5px solid;
+  border-radius: 20px;
+  width: 120px;
+  height: 100px;
+  transition-duration: 5s;
+}
+
+#Mickey:hover {
+  transform: scale(1.5);
+}
+
+section {
+  border-radius: 10px;
+  padding: 15px;
+  display: flex;
+
+}
+
+.section-body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#section-2 {
+  width: 50%;
+  height: ;
+  border: 1px solid #F4B183;
+  background-color: #FFF2CC;
+
+}
+
+#section-3 {
+  width: 50%;
+  height: ;
+  border: 1px solid #F4B183;
+  background-color: #FFF2CC;
+}
+
+#section-4 {
+  border: 1px solid #F4B183;
+  background-color: #FFF2CC;
+}
